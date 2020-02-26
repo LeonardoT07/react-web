@@ -1,0 +1,16 @@
+#aside {
+    width: 320px;
+    background-color: #fff;
+    padding: 30px 20px;
+    box-shadow: 0 0 14px rgba(0, 0, 0, .2);
+    border-radius: 2px;
+}
+
+#aside strong {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    color: #333;
+}
